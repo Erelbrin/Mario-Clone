@@ -1,0 +1,40 @@
+Texture 	TexStand 	images/mega_stand.png
+Texture 	TexRun 		images/mega_run.png
+Texture 	TexAir 		images/mega_air.png
+Texture 	TexBuster 	images/buster.png
+Texture 	TexCoin 	images/coinpulse.png
+Texture 	TexBrick 	images/brick.png
+Texture 	TexQ 		images/question1.png
+Texture 	TexQ2 		images/question2.png
+Texture 	TexPipeS 	images/pipesmall.png
+Texture 	TexPipeT 	images/pipetall.png
+Texture 	TexCloudB 	images/cloudbig.png
+Texture 	TexCloudS 	images/cloudsmall.png
+Texture 	TexBush 	images/bushsmall.png
+Texture 	TexBushBig 	images/bushbig.png
+Texture 	TexGround 	images/ground.png
+Texture 	TexBlock 	images/block.png
+Texture 	TexPole 	images/flagpole.png
+Texture 	TexPoleTop 	images/flagtop.png
+Texture 	TexFlag 	images/flag.png
+Animation	Stand		TexStand	1	0
+Animation	Run		TexRun		4	10
+Animation	Air		TexAir		1	0
+Animation	Buster		TexBuster	1	0
+Animation	Coin		TexCoin		2	5
+Animation	Question	TexQ		3	10
+Animation	Brick		TexBrick	1	0
+Animation	Question2	TexQ2		1	0
+Animation	PipeTall	TexPipeT	1	0
+Animation	PipeSmall	TexPipeS	1	0
+Animation	CloudBig	TexCloudB	1	0
+Animation	CloudSmall	TexCloudS	1	0
+Animation	Bush		TexBush		1	0
+Animation	BushBig		TexBushBig	1	0
+Animation	Ground		TexGround	1	0
+Animation	Block		TexBlock	1	0
+Animation	Flag		TexFlag		1	0
+Animation	Pole		TexPole		1	0
+Animation	PoleTop		TexPoleTop	1	0
+Font		Pixel		PixelifySans-Regular.ttf
+Font		Roboto		Roboto-Regular.ttf
